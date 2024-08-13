@@ -1,6 +1,6 @@
 import { useState, useEffect, useRef } from "react";
 import { Marker, useMap } from "react-leaflet";
-import { createRotatedIcon } from "./rotatedRocketIcon";
+import { createRotatedIcon } from "./RotatedRocketIcon";
 
 //asset
 import rocket from "../assets/rocket.png";
